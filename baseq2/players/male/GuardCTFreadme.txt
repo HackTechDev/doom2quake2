@@ -1,0 +1,1 @@
+Unzip to quake2/players/guard/
